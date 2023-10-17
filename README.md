@@ -1,5 +1,5 @@
 # ProgrammingExam
-Exam of 4/8/2023
+Exam of September 2022
 
 
 🏰 "Castles War" - A Strategy Game Project 🏹
