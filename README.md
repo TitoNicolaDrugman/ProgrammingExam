@@ -1,33 +1,58 @@
 # ProgrammingExam
-Exam of September 2022
+# Castles War
 
 
-🏰 "Castles War" - A Strategy Game Project 🏹
+Project
+Exam Date: September 2022
 
-I had the opportunity to embark on a captivating journey in the world of game design with the Computer Programming exam project "Castles War." 🎮
 
-🔸 Overview:
-"Castles War" is a 2D side-view strategy game crafted using different pygame library. 🚀 This project challenged me tostart diving deep into the realm of game development and programming.
+## Table of Contents
+* [Introduction](#introduction)
+* [Overview](#overview)
+* [Gameplay](#gameplay)
+* [Key Features](#key-features)
+* [Key Elements](#key-elements)
+* [Intricate Design](#intricate-design)
+* [Multiplayer](#multiplayer)
+* [Contributing](#contributing)
 
-🔹 Gameplay:
-In this action-packed game, two players engage in a fierce battle, each taking control of their castle 🏯, complete with a protective wall, vital buildings, and formidable units. The ultimate goal? Demolish your opponent's wall and claim victory! 💥
 
-🔸 Key Elements:
-Each castle boasts a trio of essential buildings:
+## Introduction
+Welcome to the "Castles War" project, an exciting *(?)* 2D side-view strategy game developed as a part of the Computer Programming exam in September 2022. Dive into the world of game design and programming as you take control of a castle and lead your troops to victory.
 
-🏰 Tower: A strategic defense structure capable of fending off attackers.
-⚔️ Barracks: A training ground for producing powerful military units.
-⛏️ Mine: A resource-rich area where workers can gather valuable resources.
+## Overview
+"Castles War" is a captivating 2D side-view strategy game built using the pygame library. This project was a challenging endeavor that allowed us to explore the fascinating realm of game development and programming.
 
-🔹 Units:
-"Castles War" introduces three distinct types of units:
+## Gameplay
+In "Castles War," two players engage in an intense battle, each in control of their castle, complete with protective walls, 
+barracks, mine and formidable units. The ultimate goal is to demolish your opponent's wall and claim victory.
 
-🛠️ Worker: A crucial civil unit that can be dispatched to mines for resource extraction or sent to the wall for repairs.
-⚔️ Swordsman: A formidable military unit equipped with a short-range attack, capable of taking on enemy units and walls.
-🏹 Archer: A skilled military unit with a long-range attack, making them adept at targeting adversary units and walls.
+## Key Features
 
-🔸 Intricate Design:
-Every unit in the game boasts a unique set of parameters that govern their behavior and abilities, adding depth and complexity to the gameplay. 💡
+* Real-Time Strategy: Plan your moves, manage your resources, and strategize your way to victory.
+* Diverse Units: Command Workers, Swordsmen, and Archers with unique abilities and roles.
 
-In "Castles War," I embraced the challenge of creating an engaging multiplayer experience, where two players could compete head-to-head using the same keyboard and display. 
-This project has been a remarkable journey in game design and development, where I combined creativity, strategy, and problem-solving. 🚁🏹
+## Key Elements
+### Buildings
+Each castle is equipped with three essential buildings:
+
+* Tower: A strategic defense structure capable of fending off attackers.
+* Barracks: A training ground for producing powerful military units.
+* Mine: A resource-rich area where workers can gather valuable resources.
+
+### Unit Types
+"Castles War" features three distinct types of units:
+
+* Worker: A crucial civil unit that can be dispatched to mines for resource extraction or sent to the wall for repairs.
+* Swordsman: A formidable military unit equipped with a short-range attack, capable of taking on enemy units and walls.
+* Archer: A skilled military unit with a long-range attack, making them adept at targeting adversary units and walls.
+
+## Intricate Design
+Every unit in the game boasts a unique set of parameters that govern their behavior and abilities, adding depth and complexity to the gameplay. This intricate design allows for a dynamic and engaging gaming experience.
+
+## Multiplayer
+In "Castles War," we've incorporated a thrilling multiplayer experience where two players can compete head-to-head using the same keyboard and display. Challenge your friends and see who emerges as the ultimate strategist and victor.
+
+
+## Contributing
+If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. Let's make "Castles War" even more epic together!
