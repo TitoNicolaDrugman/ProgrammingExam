@@ -4,7 +4,7 @@
 
 Project
 Exam Date: September 2022
-
+For additional information: [link](https://github.com/TitoNicolaDrugman/ProgrammingExam/blob/main/Description.pdf).
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -56,3 +56,5 @@ In "Castles War," we've incorporated a thrilling multiplayer experience where tw
 
 ## Contributing
 If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. Let's make "Castles War" even more epic together!
+
+For additional information: [link](https://github.com/TitoNicolaDrugman/ProgrammingExam/blob/main/Description.pdf).
