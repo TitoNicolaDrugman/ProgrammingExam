@@ -4,10 +4,10 @@ Exam of September 2022
 
 🏰 "Castles War" - A Strategy Game Project 🏹
 
-I had the fantastic opportunity to embark on a captivating journey in the world of game design with my final exam project, "Castles War." 🎮
+I had the opportunity to embark on a captivating journey in the world of game design with the Computer Programming exam project "Castles War." 🎮
 
 🔸 Overview:
-"Castles War" is a thrilling 2D side-view strategy game crafted using the dynamic pygame library. 🚀 This project challenged me to flex my creative muscles and dive deep into the realm of game development.
+"Castles War" is a 2D side-view strategy game crafted using different pygame library. 🚀 This project challenged me tostart diving deep into the realm of game development and programming.
 
 🔹 Gameplay:
 In this action-packed game, two players engage in a fierce battle, each taking control of their castle 🏯, complete with a protective wall, vital buildings, and formidable units. The ultimate goal? Demolish your opponent's wall and claim victory! 💥
